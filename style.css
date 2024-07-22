@@ -1,0 +1,156 @@
+.main{
+    background-color: gray;
+    height: 1600px;
+   
+}
+.main1{
+    display:flex;
+    justify-content: center;
+   
+}
+
+.intro{
+    font-style: italic;
+    color: rgb(115, 57, 151);
+    border: 10px solid red;
+    border-radius: 10px;
+    text-align: center;
+    width: 400px;
+    height: 150px;
+    box-shadow:8px 10px 2px purple;
+    text-shadow: 2px 1px 2px purple;
+    margin-left: 20px;
+    margin-top: 5px;
+    background-color: aliceblue;
+    font-size:xx-large;
+    line-height: 1.5;
+    
+}
+.address{
+    display: inline-block;
+    color: purple;
+    border: 10px solid red;
+    border-radius: 10px;
+    padding: 20px;
+    width: 180px;
+    box-shadow:8px 10px 2px purple;
+    text-shadow: 2px 1px 2px purple;
+    margin-left: 10px;
+    margin-top: 5px;
+    background-color: aliceblue;
+    font-size:x-large;
+    line-height: 1.5;
+}
+.image{
+    float:right;
+    position: relative;
+    top: -280px;
+    right: 10px;
+    border: 10px solid red;
+    border-radius: 10px;
+    background-color: aliceblue;
+    width: 220px;
+    height: 180px;
+    padding-top: 80px;
+    box-shadow:8px 10px 2px purple;
+    
+
+}
+.feedback{
+    display: inline-block;
+    position: relative;
+    border: 10px solid red;
+    border-radius: 10px;
+    margin-top: 80px;
+    width: 220px;
+    box-shadow:8px 10px 2px purple;
+    text-shadow: 2px 1px 2px purple;
+    background-color: aliceblue;
+    font-size:x-large;
+    line-height: 1.5;
+    padding: 20px;
+    left: 10px;
+
+}
+.rate{
+    float:right;
+    position: relative;
+    right: -230px;
+    bottom: -80px;
+    border: 10px solid red;
+    border-radius: 10px;
+    background-color: aliceblue;
+    text-align:center;
+    width: 220px;
+    height: 250px;
+    padding-top: 25px;
+    box-shadow:8px 10px 2px purple;
+    text-shadow: 2px 1px 2px purple;
+    font-size:large;
+    
+}
+
+.button{
+    background-color: red;
+    border-radius: 10px;
+    position: relative;
+    bottom: 2px;
+}
+.main4{
+    position: fixed;
+    border: 10px solid red;
+    top: 530px;
+    left: 440px;
+    background-color: yellowgreen;
+    border-radius: 15px;
+    box-shadow: 8px 10px 2px purple;
+}
+.d6{
+    display: inline-block;
+    background-color: yellow;
+    text-align: center;
+    font-style: italic;
+}
+.d7{
+    display: inline-block;
+    background-color: yellow;
+    text-align: center;
+    font-style: italic;
+    margin-left: 20px;
+}
+.txt{
+    text-align: center;
+    font-style: italic;
+    margin: 40px;
+    line-height: 30px;
+    font-weight: bold;
+
+}
+.txt1{
+    text-align: center;
+    font-style: italic;
+    margin: 40px;
+    line-height: 38px;
+    font-weight: bold;
+    
+}
+.d8{
+        background-color: yellow;
+        text-align: center;
+        font-style: italic;
+        width: 850px;
+        
+}
+.d678{
+    background-color: green;
+    border: 8px solid purple;
+    margin: 40px;
+    margin-left: 280px;
+    width: 850px;
+    padding: 10px;
+    text-align: center;
+}
+.offer{
+    display: inline-block;
+    margin: 30px;
+}
